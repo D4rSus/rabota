@@ -1,0 +1,269 @@
+.Head1{
+    display: Flex;
+    flex-direction: row;
+    justify-content: space-between;
+    overflow: auto;
+    height: 49%;
+    width: 35%;
+}
+
+.Head1_1{
+    display: Flex;
+    flex-direction: row;
+    justify-content: right;
+    overflow: auto;
+    height: 49%;
+    width: 20%;
+}
+
+.Head1_2{
+    display: Flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: auto;
+    height: 49%;
+    width: 32%;
+    margin-top: 20px;
+    background-color: #F8F8F8;
+}
+
+.Head1_4{
+    display: Flex;
+    flex-direction: row;
+    justify-content: space-between;
+    overflow: auto;
+}
+
+.Head1_5{
+    display: Flex;
+    flex-direction: row;
+    justify-content: space-around;
+    overflow: auto;
+    width: 48%;
+}
+
+.Head1_3{
+    display: Flex;
+    flex-direction: row;
+    justify-content: space-between;
+    overflow: auto;
+    margin-left: 60px;
+    height: 49%;
+    width: 20%;
+}
+
+.Head2{
+    display: Flex;
+    flex-direction: row;
+    justify-content: end;
+    overflow: auto;
+    height: 49%;
+    width: 70%;
+}
+
+.Head3{
+    display: Flex;
+    flex-direction: row;
+    justify-content: center;
+    overflow: auto;
+    height: 49%;
+}
+
+.Head3_2{
+    display: Flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: auto;
+    height: 49%;
+}
+
+.Head3_3{
+    display: Flex;
+    flex-direction: row;
+    justify-content: left;
+    overflow: auto;
+    height: 49%;
+}
+
+.Mod1{
+    flex-direction: row;
+    align: left;
+}
+
+.Mod1_1{
+    flex-direction: column;
+    align: left;
+    font-size: 60px;
+    margin-top: 160px;
+}
+
+.Mod1_2{
+    flex-direction: column;
+    align: left;
+    font-size: 23px;
+    margin-right: 460px;
+}
+
+.Mod1_3{
+    flex-direction: row;
+    align: left;
+    margin-top: 5px;
+    font-size: 30px;
+}
+
+.Mod2{
+    flex-direction: row;
+    font-size: 23px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.Mod2_2{
+    flex-direction: row;
+    font-size: 23px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.Mod2_3{
+    flex-direction: row;
+    font-size: 23px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.Mod2_4{
+    flex-direction: row;
+    font-size: 23px;
+    margin-top: 350px;
+    text-align: left;
+}
+
+.Mod2_5{
+    flex-direction: row;
+    font-size: 23px;
+    margin-top: 15px;
+    text-align: left;
+}
+
+.Mod2_6{
+    flex-direction: row;
+    font-size: 23px;
+    margin-top: 10px;
+    text-align: right;
+    width: 50%;
+    margin-right: 30px;
+}
+
+.Mod3{
+    flex-direction: row;
+    font-size: 23px;
+    margin-top: 32px;
+    margin-left: 20px;
+    text-align: left;
+    color: #ED1C24;
+}
+
+.Mod3_1{
+    flex-direction: row;
+    font-size: 23px;
+    margin-top: 32px;
+    margin-left: 240px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+.Mod4{
+    flex-direction: row;
+    font-size: 30px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.Mod5{
+    flex-direction: row;
+    font-size: 20px;
+    height: 30px;
+    width: 135px;
+    padding-left: 20px;
+    padding-top: 5px;
+    margin-top: 20px;
+    border: 2px solid #E5E6E8;
+    border-radius: 16px;
+}
+
+.Mod6{
+    font-size: 18px;
+    margin-top: 28px;
+    font-family: 'Roboto';
+    font-style: normal;
+}
+
+.Mod7{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    color: #6153CC;
+    margin-top: 24px;
+}
+
+.box1{
+    display: Flex;
+    flex-direction: row;
+    justify-content: space-between;
+    overflow: auto;
+    height: 100%;
+}
+
+.box1_2{
+    display: Flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    overflow: auto;
+    height: 100%;
+}
+
+.box1_1{
+    display: Flex;
+    flex-direction: row;
+    justify-content: left;
+    overflow: auto;
+    height: 70%;
+}
+
+.box3{
+    display: Flex;
+    flex-direction: row;
+    justify-content: space-between;
+    overflow: auto;
+    height: 100%;
+}
+
+.box3{
+
+}
+
+.otstyp1{
+    margin-left: 40px;
+}
+
+.otstyp2{
+    margin-top: 25px;
+}
+
+.otstyp3{
+    margin-top: 300px;
+}
+.otstyp4{
+    margin-top: 285px;
+}
+.otstyp5{
+    margin-bottom: 35px;
+}
+
+.N1{
+    margin-left: 48%;
+}
